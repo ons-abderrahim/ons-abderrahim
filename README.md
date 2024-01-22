@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ons Abderrahim</h1>
-<h3 align="center">A passionate Machine Learning engineering student from Tunisia</h3>
+<h3 align="center">A passionate Machine Learning Engineering Student from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ons-abderrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ons-abderrahim" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ons-abderrahim](https://github.com/ons-abderrahim)
 
-- 💬 Ask me about **Raspberry Pi, Opencv, Python, Matlab**
+- 💬 Ask me about **Raspberry Pi, Opencv, Python**
 
-- 📫 How to reach me **ons.abderrahim@ieee.org**
+- 📫 How to reach me **abderrahimons99@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CC05HZapLgN2Il0PaQbhSUgbquFE8HRb/view?usp=sharing](https://drive.google.com/file/d/1CC05HZapLgN2Il0PaQbhSUgbquFE8HRb/view?usp=sharing)
 
