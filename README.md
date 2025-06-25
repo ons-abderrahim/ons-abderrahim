@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ons Abderrahim</h1>
-<h3 align="center">A passionate Machine Learning Engineering Student from Tunisia</h3>
+<h3 align="center">A passionate Machine Learning Engineer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ons-abderrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ons-abderrahim" /> </p>
 
