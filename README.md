@@ -24,7 +24,7 @@ I have experience building and deploying **LLM-based applications, computer visi
 ## 🛠️ Skills & Tech Stack
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,git,azure,streamlit,flask,sql,arduino,raspberrypi)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,git,azure,flask,arduino,raspberrypi)](https://skillicons.dev)
 
 </div>
 
