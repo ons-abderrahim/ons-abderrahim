@@ -1,26 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ons Abderrahim</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Tunisia</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ons-abderrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ons-abderrahim" /> </p>
+<img src="banner.png" alt="Ons Abderrahim - Machine Learning Engineer">
 
-- 🌱 I’m currently learning **Pytorch, Keras and Tensorflow**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ons-abderrahim](https://github.com/ons-abderrahim)
+# Hi, I'm Ons Abderrahim 👋  
 
-- 💬 Ask me about **Raspberry Pi, Opencv, Python**
+I'm a **Machine Learning Engineer (M.A.Sc.)** with expertise in **end-to-end ML pipeline development, domain adaptation, and AI-powered autonomous systems**.  
+I have experience building and deploying **LLM-based applications, computer vision models (YOLO, OpenCV), and NLP pipelines** that create real-world impact.  
 
-- 📫 How to reach me **abderrahimons99@gmail.com**
+🎓 **M.A.Sc. in Quality Systems Engineering @ Concordia University, Canada**  
+📌 Passionate about **bridging research and production**, focusing on **deployable AI solutions** for smart buildings, accessibility, and intelligent systems.  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CC05HZapLgN2Il0PaQbhSUgbquFE8HRb/view?usp=sharing](https://drive.google.com/file/d/1CC05HZapLgN2Il0PaQbhSUgbquFE8HRb/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ons abderrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ons abderrahim" height="30" width="40" /></a>
-</p>
+## 🔗 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ons-abderrahim/)  
+- 💻 [GitHub](https://github.com/ons-abderrahim)  
+- ✉️ **abderrahimons99@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ons-abderrahim&show_icons=true&locale=en&layout=compact" alt="ons-abderrahim" /></p>
+## 🛠️ Skills & Tech Stack
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ons-abderrahim&show_icons=true&locale=en" alt="ons-abderrahim" /></p>
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,docker,git,azure,streamlit,flask,langchain,cpp,sql,arduino,raspberrypi)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Projects
+### 🔹 AI Legal Assistant (LLM-based)
+- Built an **AI-powered legal assistant** using **LLaMA-2, LangChain, and FAISS** for RAG-based semantic search.  
+- Deployed an **interactive Streamlit web app** for real-time querying of legal documents.
+
+### 🔹 Smart Classroom System
+- Created a **real-time Raspberry Pi-based classroom monitoring system** achieving **96%+ accuracy** in detecting students and objects.  
+- Enabled **visual and audio feedback** for accessibility and classroom interaction.
+
+### 🔹 Traffic Sign Navigation Car
+- Trained a **YOLOv5 model** to detect road signs (**94.7% confidence**) and integrated it into a **self-driving robotic vehicle** for autonomous navigation.
+
+---
+
+## 📈 GitHub Stats
+<details>
+  <summary>Click to view stats ⚡</summary>
+  <div align="center">
+    <img height="174px" src="https://github-readme-stats.vercel.app/api?username=ons-abderrahim&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img height="174px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ons-abderrahim&theme=tokyonight&layout=compact&hide_border=true" />
+  </div>
+</details>
+
+---
+
+## 🏆 Achievements
+- 🏅 **Mitacs Globalink Graduate Fellowship (2024)**  
+- 🎓 **M.A.Sc. Thesis ranked Excellent (2025)**  
+- 🎖️ **Research Fellowship – Concordia (2024)**  
+- 🎖️ **Special Entrance Award – Concordia (2024)**  
+
+---
+
+<div align="center">
+
+<footer>
+
+© 2025 Ons Abderrahim  
+
+</footer>
+
+</div>
