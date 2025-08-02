@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Ons Abderrahim - Machine Learning Engineer">
+<"Ons Abderrahim - Machine Learning Engineer">
 
 </div>
 
@@ -24,7 +24,7 @@ I have experience building and deploying **LLM-based applications, computer visi
 ## 🛠️ Skills & Tech Stack
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,docker,git,azure,streamlit,flask,langchain,cpp,sql,arduino,raspberrypi)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,git,azure,streamlit,flask,sql,arduino,raspberrypi)](https://skillicons.dev)
 
 </div>
 
