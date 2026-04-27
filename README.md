@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ons%20Abderrahim&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Researcher%20%7C%20MLOps&descAlignY=55&descSize=16" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-onsabderrahim.github.io-ff1a8c?style=for-the-badge&logo=github&logoColor=white)](https://onsabderrahim.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-onsabderrahim.github.io-ff1a8c?style=for-the-badge&logo=github&logoColor=white)](https://ons-abderrahim.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ons%20Abderrahim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ons-abderrahim)
 [![Email](https://img.shields.io/badge/Email-abderrahimons99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrahimons99@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Montréal%2C%20QC%2C%20Canada-4c3fff?style=for-the-badge)](https://onsabderrahim.github.io)
