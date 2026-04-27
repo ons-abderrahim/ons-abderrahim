@@ -13,17 +13,23 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Machine Learning Engineer & AI Researcher** based in Montréal, specializing in end-to-end ML pipeline design, domain adaptation, and production-ready AI systems. I recently completed my **M.A.Sc. in Quality Systems Engineering** at Concordia University (thesis ranked *Excellent*), where my research focused on AI-driven behavior modeling using unsupervised domain adaptation for smart building systems.
+I'm a **Machine Learning Engineer & AI Researcher** based in Montréal, Canada, focused on building practical machine learning, LLM, RAG, and agentic AI systems that solve real-world problems.
 
-I bridge the gap between research and engineering — from designing novel UDA frameworks that achieve **90.1% cross-domain accuracy**, to deploying real-time inference systems on Azure. Currently expanding into **LLM systems**, RAG architectures, and automated prompt evaluation pipelines.
+My background combines applied AI research, end-to-end ML pipeline development, model evaluation, and deployment. 
+I have experience working with computer vision, NLP, tabular data, IoT sensor data, and domain adaptation, with a strong interest in transforming research ideas into reliable AI products.
+
+
+I recently completed my M.A.Sc. in Quality Systems Engineering at Concordia University, where my research focused on robust AI models for cross-domain generalization. 
+I am now expanding my work toward LLM applications, retrieval-augmented generation, AI agents, automated evaluation pipelines, and MLOps.
+
 
 ```python
 ons = {
-    "location"    : "Montréal, QC, Canada",
-    "languages"   : ["Python", "SQL", "Bash"],
-    "focus"       : ["Domain Adaptation", "LLM Systems", "MLOps", "Smart Buildings"],
-    "frameworks"  : ["PyTorch", "TensorFlow", "HuggingFace", "FastAPI"],
-    "currently"   : "Open to ML Engineering & AI Research roles 🚀",
+    "location": "Montréal, QC, Canada",
+    "roles": ["AI/ML Engineer", "LLM Developer", "Agentic AI Developer", "MLOps Engineer"],
+    "focus": ["Machine Learning", "LLMs", "RAG", "AI Agents", "Computer Vision", "MLOps"],
+    "tools": ["Python", "PyTorch", "TensorFlow", "Hugging Face", "FastAPI", "Docker", "Azure"],
+    "currently": "Building production-ready AI systems and expanding into agentic AI workflows 🚀"
 }
 ```
 
